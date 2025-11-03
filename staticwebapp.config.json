@@ -6,7 +6,7 @@
   "routes": [
     {
       "route": "/truck-animation/*",
-      "rewrite": "/truck-animation/index.html"
+      "rewrite": "/index.html"
     }
   ],
   "mimeTypes": {
