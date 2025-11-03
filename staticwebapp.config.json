@@ -1,7 +1,7 @@
 {
   "navigationFallback": {
     "rewrite": "/truck-animation/index.html",
-    
+    "exclude": ["/assets/*"]
   },
   "routes": [
     {
