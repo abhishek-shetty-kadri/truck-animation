@@ -1,0 +1,15 @@
+{
+  "navigationFallback": {
+    "rewrite": "/truck-animation/index.html",
+    
+  },
+  "routes": [
+    {
+      "route": "/truck-animation/*",
+      "rewrite": "/truck-animation/index.html"
+    }
+  ],
+  "mimeTypes": {
+    ".json": "text/json"
+  }
+}
